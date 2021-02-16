@@ -1,3 +1,0 @@
-base    = "client"
-publish = "client/dist/"
-command = "react-scripts build"

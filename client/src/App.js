@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import socketIOClient from "socket.io-client";
 import Chat from "./Chat";
-const ENDPOINT = "http://localhost:8080";
+const ENDPOINT = "https://sqa-webchat.herokuapp.com/";
 
 function App() {
   const ws = useRef(null);

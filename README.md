@@ -2,6 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6c7b185d-2c7d-4c6c-8ad9-fa2bc96e74b4/deploy-status)](https://app.netlify.com/sites/sad-agnesi-9a17ea/deploys)
 
+[Live demo](https://sad-agnesi-9a17ea.netlify.app/)
+
 ## Our product
 
 A chat application made with React, NodeJS and websockets.

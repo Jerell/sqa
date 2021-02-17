@@ -28,13 +28,20 @@ function App() {
   }
 
   return (
-    <>
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        flexDirection: "column",
+      }}
+    >
       <Chat history={history} />
       <form onSubmit={handleSubmit}>
         <input onChange={handleChange}></input>
         <button type="submit">Submit</button>
       </form>
-    </>
+    </div>
   );
 }
 

@@ -21,3 +21,7 @@ NodeJS was chosen because it allows us to use one language for our clinet and se
 ### Socket io
 
 Socket.IO is a library that enables real-time, bidirectional and event-based communication between the browser and the server, which makes it perfect for a web chat application such as ours.
+
+### Deployment
+
+The front end is deployed with Netlify and the backend with Heroku.
